@@ -1,0 +1,14 @@
+.pic{
+    display: flex;
+    justify-content: space-between;
+}
+.ceo{
+    text-align: center;
+}
+.j{
+    text-align: center;
+    color: black;
+}
+.container{
+    margin: 0;
+}

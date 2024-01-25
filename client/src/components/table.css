@@ -1,13 +1,15 @@
 table{
     /* border-collapse: collapse; */
     /* text-align: center; */
+   
 
 }
 .container{
     /* text-align: center; */
+    
 }
 .body{
-    margin: 0;
+    margin: 0; 
 }
 
 
@@ -23,7 +25,8 @@ table{
     width: 100%;
     /* width: 100%; */
       border-collapse: collapse;
-      margin-bottom: 20px; 
+      /* margin-bottom: 20px;  */
+      /* padding-top: 50px; */
 }
 
 td{
